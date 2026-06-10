@@ -7,7 +7,7 @@
 
 ## Live Store
 
-🔗 [Visit KHAAB Store](https://YOUR-STORE-URL.com)
+🔗 [Visit KHAAB Store](https://khaab.pk)
 
 ---
 
