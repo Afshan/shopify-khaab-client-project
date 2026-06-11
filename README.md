@@ -47,13 +47,13 @@ This was a real paid freelance project — not a tutorial or practice project.
 ## Screenshots
 
 ### Homepage
-![KHAAB Homepage](screenshots/homepage.png)
+![KHAAB Homepage](hero%20section.PNG)
 
 ### Custom Category Section
-![Custom Category Section](screenshots/categories.png)
+![Custom Category Section](bags.PNG)
 
 ### Product Page
-![Product Page](screenshots/product.png)
+![Product Page](product.PNG)
 
 ---
 
